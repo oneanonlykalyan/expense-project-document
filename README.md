@@ -51,7 +51,7 @@ We'll add detailed setup instructions for local and cloud deployments, including
 ## 🙌 Contributors
 
 - **Kalyan Kalavena** – Project Documentation & Architecture
-
+ 
 ---
 
 ## 📜 License
